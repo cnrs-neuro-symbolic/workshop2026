@@ -1,5 +1,3 @@
-## title: "Neurosymbolic Methods and Their Applications in Data Science"
-
 # Neurosymbolic Methods and Their Applications in Data Science
 
 ## Journée de conférences — 6 octobre 2026, Grenoble
