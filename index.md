@@ -26,7 +26,7 @@ Le programme détaillé sera communiqué prochainement.
 
 La participation à cette journée est **gratuite**, mais **l’inscription est obligatoire**.
 
-[**S'inscrire à la journée**](LIEN_INSCRIPTION)
+[**S'inscrire à la journée**](https://forms.gle/XdKnMxs2F6oKtorj6)
 
 La journée est ouverte aux chercheurs et étudiants intéressés par l’**intelligence artificielle**, la **science des données** et les **approches neuro-symboliques**.
 
