@@ -1,45 +1,48 @@
-Nom de l'événement
+## title: "Neurosymbolic Methods and Their Applications in Data Science"
 
-[Home] [Programme] [Speakers] [Call for contributions] [Venue]
+# Neurosymbolic Methods and Their Applications in Data Science
 
----------------------------------------------------------
+## Journée de conférences — 6 octobre 2026, Grenoble
 
-            NOM DE L'ÉVÉNEMENT 2026
-        Sous-titre scientifique éventuel
+**Une journée de conférences ouverte aux chercheurs et étudiants**
 
-            17 November 2026
-                  Paris
+Dans le cadre du workshop international ***Neurosymbolic Methods and Their Applications in Data Science***, les **GDR MaDICS et RADIA** organisent une journée de conférences consacrée aux **méthodes neuro-symboliques et à leurs applications en science des données**.
 
-              [Register]
+Cette journée, ouverte aux chercheurs et étudiants, sera l’occasion de découvrir des travaux récents dans ce domaine et d’échanger avec des spécialistes internationaux.
 
----------------------------------------------------------
+---
 
-About
-Lorem ipsum...
+## Informations pratiques
 
----------------------------------------------------------
+**Date :** 6 octobre 2026
 
-Invited Speakers
+**Lieu :**
+Amphithéâtre du bâtiment IMAG
+Campus universitaire de Grenoble
+150 place du Torrent
+38400 Saint-Martin-d'Hères, France
 
-[photo]  Speaker A
-         Institution
-         Talk title
+---
 
-[photo]  Speaker B
-         Institution
-         Talk title
+## Programme
 
----------------------------------------------------------
+Le programme détaillé sera communiqué prochainement.
 
-Important dates
+---
 
-Submission deadline       15 October
-Notification              25 October
-Event                     17 November
+## Participation et inscription
 
----------------------------------------------------------
+La participation à cette journée est **gratuite**, mais **l’inscription est obligatoire**.
 
-Organizers
+[**S'inscrire à la journée**](LIEN_INSCRIPTION)
 
-Alice X — Institution
-Bob Y   — Institution
+La journée est ouverte aux chercheurs et étudiants intéressés par l’**intelligence artificielle**, la **science des données** et les **approches neuro-symboliques**.
+
+---
+
+## Organisation
+
+Cette journée est organisée dans le cadre des activités des :
+
+* **GDR MaDICS**
+* **GDR RADIA**
