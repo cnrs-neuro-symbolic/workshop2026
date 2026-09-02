@@ -34,5 +34,6 @@ La journée est ouverte aux chercheurs et étudiants intéressés par l’**inte
 
 Cette journée est organisée dans le cadre des activités des :
 
-* **GDR MaDICS**
-* **GDR RADIA**
+* **GDR [MaDICS](https://www.madics.fr/)**
+* **GDR [RADIA](https://gdr-radia.cnrs.fr/)**
+* et du GT [RECAST](https://gt-recast.github.io/)
