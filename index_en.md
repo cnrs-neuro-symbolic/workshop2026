@@ -4,7 +4,7 @@
 
 **Tuesday, October 6, 2026, Grenoble**
 
-As part of the *Neurosymbolic Methods and Their Applications in Data Science* workshop, the CNRS GDRs MaDICS and RADIA, through their joint working group RECAST, are organizing a one-day conference dedicated to neuro-symbolic methods and their applications in data science.
+As part of the *Neurosymbolic Methods and Their Applications in Data Science* workshop, the CNRS GDRs MaDICS and RADIA, through their joint working group RECAST, together with the Computer Science Laboratory of Grenoble (LIG), the MIAI NSRL Chair, and LabEx PERSYVAL-Lab, are co-organizing a one-day conference dedicated to neuro-symbolic methods and their applications in data science.
 
 Open to all researchers, faculty members, PhD students, and students, this event will be an opportunity to discover recent advances in the field and exchange with international experts.
 
@@ -54,4 +54,6 @@ Participants wishing to present a poster are invited to check the corresponding 
 
 ## Organization
 
-This event is organized within the framework of the activities of the **CNRS GDRs [MaDICS**](https://www.madics.fr/) and **[RADIA](https://gdr-radia.cnrs.fr/)** and their joint working group **[RECAST](https://gt-recast.github.io/)**.
+This event is **co-organized** by the **CNRS GDRs [MaDICS](https://www.madics.fr/)** and **[RADIA](https://gdr-radia.cnrs.fr/)**, through their joint working group **[RECAST](https://gt-recast.github.io/)**, together with the **[Computer Science Laboratory of Grenoble (LIG)](https://www.liglab.fr/)**, the **MIAI NSRL Chair**, and **LabEx PERSYVAL-Lab**.
+
+
