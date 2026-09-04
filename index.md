@@ -20,6 +20,8 @@ Campus universitaire de Grenoble
 
 ## Programme
 
+[Programme provisoire](program.md)
+
 Le programme détaillé sera communiqué prochainement.
 
 ## Participation et inscription
