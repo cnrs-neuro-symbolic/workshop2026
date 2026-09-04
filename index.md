@@ -50,8 +50,4 @@ Les participants souhaitant présenter un poster sont invités à cocher la case
 
 ## Organisation
 
-Cette journée est organisée dans le cadre des activités des :
-
-* **GDR [MaDICS](https://www.madics.fr/)**
-* **GDR [RADIA](https://gdr-radia.cnrs.fr/)**
-* et du GT [RECAST](https://gt-recast.github.io/)
+Cette journée est organisée dans le cadre des activités des **GDR CNRS [MaDICS](https://www.madics.fr/)** et **[RADIA](https://gdr-radia.cnrs.fr/)** et de leur GT commun **[RECAST](https://gt-recast.github.io/)**.
