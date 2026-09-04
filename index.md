@@ -10,7 +10,7 @@
 
 [english version](index_en.md)
 
-Dans le cadre du workshop *Neurosymbolic Methods and Their Applications in Data Science*, les GDR CNRS MaDICS et RADIA, à travers leur GT commun RECAST, organisent une journée de conférences consacrée aux méthodes neuro-symboliques et à leurs applications en science des données.
+Dans le cadre du workshop *Neurosymbolic Methods and Their Applications in Data Science*, les GDR CNRS MaDICS et RADIA, à travers leur GT commun RECAST, organisent, en collaboration avec le Laboratoire d’Informatique de Grenoble (LIG), la chaire MIAI NSRL et le LabEx PERSYVAL-Lab, une journée de conférences consacrée aux méthodes neuro-symboliques et à leurs applications en science des données.
 
 Ouverte à l'ensemble des chercheurs, enseignants-chercheurs, doctorants et étudiants, cette journée sera l'occasion de découvrir les avancées récentes dans ce domaine et d'échanger avec des spécialistes de renommée internationale.
 
@@ -56,4 +56,4 @@ Les participants souhaitant présenter un poster sont invités à cocher la case
 
 ## Organisation
 
-Cette journée est organisée dans le cadre des activités des **GDR CNRS [MaDICS](https://www.madics.fr/)** et **[RADIA](https://gdr-radia.cnrs.fr/)** et de leur GT commun **[RECAST](https://gt-recast.github.io/)**.
+Cette journée est **co-organisée** par les **GDR CNRS [MaDICS](https://www.madics.fr/)** et **[RADIA](https://gdr-radia.cnrs.fr/)**, à travers leur GT commun **[RECAST](https://gt-recast.github.io/)**, ainsi que par le **Laboratoire d’Informatique de Grenoble ([LIG](https://www.liglab.fr/))**, la **chaire MIAI NSRL** et le **LabEx PERSYVAL-Lab**.
