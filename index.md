@@ -8,6 +8,8 @@
 
 **Mardi 6 octobre 2026, Grenoble**
 
+[english version](index_en.md)
+
 Dans le cadre du workshop *Neurosymbolic Methods and Their Applications in Data Science*, les GDR CNRS MaDICS et RADIA, à travers leur GT commun RECAST, organisent une journée de conférences consacrée aux méthodes neuro-symboliques et à leurs applications en science des données.
 
 Ouverte à l'ensemble des chercheurs, enseignants-chercheurs, doctorants et étudiants, cette journée sera l'occasion de découvrir les avancées récentes dans ce domaine et d'échanger avec des spécialistes de renommée internationale.
