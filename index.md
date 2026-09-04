@@ -1,6 +1,5 @@
-![LogoMaDICS](Logo-CNRS-MaDICS-2021.jpg "Logo MaDICS"){height=100}
 
-![LogoRADIA](GDR-RADIA-logo.jpg "Logo RADIA" )
+<img src="Logo-CNRS-MaDICS-2021.jpg" alt="Logo MaDICS" height="100px"/><img src="GDR-RADIA-logo.jpg" alt="Logo RADIA" height="100px"/>
 
 
 # Neurosymbolic Methods and Their Applications in Data Science
