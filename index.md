@@ -1,3 +1,7 @@
+![LogoMaDICS](Logo-CNRS-MaDICS-2021.jpg "Logo MaDICS")
+
+![LogoRADIA](GDR-RADIA-logo.jpg "Logo RADIA")
+
 
 # Neurosymbolic Methods and Their Applications in Data Science
 
