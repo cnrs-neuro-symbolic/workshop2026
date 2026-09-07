@@ -32,7 +32,7 @@ Ouverte à l'ensemble des chercheurs, enseignants-chercheurs, doctorants et étu
 
 Le programme proposera quatre conférences invitées (keynotes), une table ronde et une session de posters:
 
-[Programme provisoire](program.md)
+[Programme provisoire](program_public.md)
 
 Le programme détaillé de la journée sera prochainement disponible.
 

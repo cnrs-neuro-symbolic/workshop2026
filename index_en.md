@@ -31,7 +31,7 @@ Grenoble University Campus
 
 The program will feature four keynote talks, a panel discussion, and a poster session:
 
-[Tentative program](program.md)
+[Tentative program](program_public.md)
 
 The detailed schedule for the day will be available soon.
 
