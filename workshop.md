@@ -25,8 +25,6 @@ You will only need to cover your travel to and from Grenoble and, if necessary, 
 
 ## Workshop Program
 
-The program will feature four keynote talks, a panel discussion, and a poster session:
-
 [Tentative program](program.md)
 
 
