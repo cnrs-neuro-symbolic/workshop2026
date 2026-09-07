@@ -32,7 +32,10 @@ The program will feature four keynote talks, a panel discussion, and a poster se
 
 ## Organization and Contact
 
-
+* ftoumani@isima.fr
+* meghyn.bienvenu@u-bordeaux.fr
+* pierre.geneves@inria.fr
+* bernd.amann@lip6.fr
 
 
 
