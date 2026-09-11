@@ -41,7 +41,7 @@ Intervenants confirmés :
 * Floris Geerts (Université d'Anvers, Belgique) : Relational Neural Networks
 * Thomas Schiex (INRAE, France): A neuro-symbolic architecture learns how to solve NP-hard puzzles: from logical games and discrete optimization to molecular design
 * Mehwish Alam (Télécom Paris, France) : Language Models and Symbolic AI
-* Giuseppe Marra (KU Leuven, Belgique) : à préciser
+* Giuseppe Marra (KU Leuven, Belgique) : Neurosymbolic Concept Based Models
 
 ## Participation et inscription
 
