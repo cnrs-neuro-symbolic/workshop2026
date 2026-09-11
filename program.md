@@ -34,4 +34,4 @@
 | 17:00--19:00 | Plenary session wrap-up session |
 | 19:30--21:30 | Dinner |
 | **Day 4** | **October 9** |
-| 09:00--09:45 | Departure for Grenoble Train Station |
+| 08:30--09:30 | Departure--Arrival for Grenoble Train Station |
