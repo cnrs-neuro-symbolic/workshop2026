@@ -27,6 +27,19 @@ You will only need to cover your travel to and from Grenoble and, if necessary, 
 
 [Tentative program](program.md)
 
+## Working Groups
+
+### Neurosymbolic Programming and Reasoning (NPR)
+
+Animators: Pierre Geneves, Thomas Schiex
+
+### Knowledge Graphs and Ontology  (KGE)
+
+Animators:  Mehwish Alam, Pierre-Henri Paris, Nathalie Pernelle 
+
+### Neural Data Representation and Processing (NDRP)
+
+Animators: Bernd Amann, Marc Plantevit
 
 ## Organization and Contact
 
