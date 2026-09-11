@@ -16,8 +16,8 @@
 | 08:30--09:00 | Opening session |
 | 09:00--10:00 | Lightning talks (2min / participant) |
 | 10:00--10:30 | Coffee break |
-| 10:30--11:30 | Plenary session (3 invited talks - provocative) |
-| 11:30--12:00 | Plenary - Working groups (WG animators) |
+| 10:30--11:00 | Plenary - Working groups (WG animators) |
+| 11:00--12:00 | Working groups |
 | 12:00--13:30 | Lunch |
 | 13:30--15:30 | Working groups |
 | 15:30--16:00 | Coffee break |
