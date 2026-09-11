@@ -38,8 +38,6 @@ Le programme détaillé de la journée sera prochainement disponible.
 
 Intervenants confirmés :
 
-Confirmed speakers:
-
 * **Floris Geerts** (University of Antwerp, Belgium): **Relational Neural Networks**
 
   *Abstract.* Relational data capture rich, structured dependencies that traditional learning methods struggle to exploit. Relational neural networks aim to model such data by integrating the relational reasoning principles underlying graph neural networks and graph transformers. This talk explores the theoretical foundations of these models and how their learning behaviour interacts with data heterogeneity, temporal dynamics, and schema structure. We question how to characterise what relational architectures can represent and how they learn. Finally, we outline prospects for principled foundation models that unify representation, reasoning, and transfer across diverse relational domains.
