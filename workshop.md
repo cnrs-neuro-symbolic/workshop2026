@@ -11,7 +11,7 @@
     150 Place du Torrent
     38400 Saint-Martin-d'Hères, France
   
-* Wed, Oct. 7 to Fir. Oc 9 (Days 2-4, workshop):
+* Wed, Oct. 7 to Fri. Oct. 9 morning (Days 2-4, workshop):
   
     Domaine de Charmeil
     154 Impasse de la Grande Grange
