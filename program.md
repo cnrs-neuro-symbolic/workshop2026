@@ -6,13 +6,13 @@
 | 09:00--09:30 | Registration |
 | 09:30--10:30 | Floris Geerts (University of Antwerp, Belgium): Relational Neural Networks (B. Amann) |
 | 10:30--11:00 | Coffee Break |
-| 11:00--12:00 | Thomas Schiex (INRAE, France): A neuro-symbolic architecture learns how to solve NP-hard puzzles: from logical games and discrete optimization to molecular design | <!-- Pierre -->
+| 11:00--12:00 | Thomas Schiex (INRAE, France): A neuro-symbolic architecture learns how to solve NP-hard puzzles: from logical games and discrete optimization to molecular design (P. Geneves) |
 | 12:00--13:30 | Lunch & Posters |
 | 13:30--14:30 | Mehwish Alam (Télécom Paris, France): Language Models and Symbolic AI (P.H. Paris) | 
 | 14:30--15:30 | Giuseppe Marra (KU Leuven, Belgium): Neurosymbolic Concept Based Models (T. Schiex) |
 | 15:30--16:00 | Coffee Break |
 | 16:00--16:45 | Panel Discussion / Q&A (M. Bienvenu) | 
-| 17:00--17:45 | Departure Domaine de Charmeil (Saint-Quentin-sur-Isère) |
+| 17:00--17:45 | Departure to Domaine de Charmeil (Saint-Quentin-sur-Isère) |
 | 19:30--21:30 | Dinner |
 | **Day 2** | **October 7** |
 | 08:30--09:00 | Opening session |
