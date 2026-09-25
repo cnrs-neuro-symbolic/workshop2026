@@ -17,6 +17,8 @@
     154 Impasse de la Grande Grange
     38210 Saint-Quentin-sur-Isère, France
 
+  Bus location:  <img src="depart.png" style="width:200px">
+
 ### Travel and Accomodation 
 The CNRS will cover meals and accommodation for all three days (from the morning of Tuesday, October 6, to the morning of Friday, October 9), as well as the transfer between Grenoble and Domaine de Charmeil.
 
