@@ -12,7 +12,7 @@
 | 14:30--15:30 | Giuseppe Marra (KU Leuven, Belgium): Neurosymbolic Concept Based Models (T. Schiex) |
 | 15:30--16:00 | Coffee Break |
 | 16:00--16:45 | Panel Discussion / Q&A (M. Bienvenu) | 
-| 17:00--17:45 | Departure to Domaine de Charmeil (Saint-Quentin-sur-Isère) |
+| 17:00--17:45 | Departure to Domaine de Charmeil (Saint-Quentin-sur-Isère) [depart.png] |
 | 19:30--21:30 | Dinner |
 | **Day 2** | **October 7** |
 | 08:30--09:00 | Opening session |
