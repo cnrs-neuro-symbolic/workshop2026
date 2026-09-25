@@ -11,7 +11,7 @@
 | 13:30--14:30 | Mehwish Alam (Télécom Paris, France): Language Models and Symbolic AI |
 | 14:30--15:30 | Giuseppe Marra (KU Leuven, Belgium): Neurosymbolic Concept Based Models |
 | 15:30--16:00 | Coffee Break |
-| 16:00--17:00 | Panel Discussion / Q&A |
+| 16:00--17:00 | Panel Discussion / Q&A (M. Bienvenu) |
 | 17:30--18:15 | Departure Domaine de Charmeil (Saint-Quentin-sur-Isère) |
 | 19:30--21:30 | Dinner |
 | **Day 2** | **October 7** |
