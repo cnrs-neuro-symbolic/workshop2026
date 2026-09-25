@@ -43,8 +43,6 @@ Animators:  Mehwish Alam, Pierre-Henri Paris, Nathalie Pernelle
 
 Animators: Bernd Amann, Marc Plantevit
 
-[Shared repository](https://sdrive.cnrs.fr/s/JmQXXayikrAXMYN)
-
 ## Organization and Contact
 
 * ftoumani@isima.fr
