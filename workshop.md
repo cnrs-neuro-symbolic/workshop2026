@@ -25,7 +25,7 @@ You will only need to cover your travel to and from Grenoble and, if necessary, 
 
 ## Workshop Program
 
-[Tentative program](program.md)
+[Program](program.md)
 
 ## Working Groups
 
