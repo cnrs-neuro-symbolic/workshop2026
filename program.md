@@ -12,6 +12,8 @@
 | 14:30--15:30 | Giuseppe Marra (KU Leuven, Belgium): Neurosymbolic Concept Based Models |
 | 15:30--16:00 | Coffee Break |
 | 16:00--17:00 | Panel Discussion / Q&A |
+| 17:30--18:15 | Departure Domaine de Charmeil (Saint-Quentin-sur-Isère) |
+| 19:30--21:30 | Dinner |
 | **Day 2** | **October 7** |
 | 08:30--09:00 | Opening session |
 | 09:00--10:00 | Lightning talks (2min / participant) |
