@@ -43,7 +43,7 @@ Animators:  Mehwish Alam, Pierre-Henri Paris, Nathalie Pernelle
 
 Animators: Bernd Amann, Marc Plantevit
 
-[Shared Drive](https://github.com/cnrs-neuro-symbolic/workshop2026.git)
+[Shared Drive](https://sdrive.cnrs.fr/s/JmQXXayikrAXMYN)
 
 ## Organization and Contact
 
