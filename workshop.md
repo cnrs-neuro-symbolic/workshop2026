@@ -37,7 +37,7 @@ Animators: Pierre Geneves, Thomas Schiex
 
 ### Knowledge Graphs and Ontology  (KGE)
 
-Animators:  Mehwish Alam, Pierre-Henri Paris, Nathalie Pernelle 
+Animators:  Mehwish Alam, Zied Bouraoui 
 
 ### Neural Data Representation and Processing (NDRP)
 
